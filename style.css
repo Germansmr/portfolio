@@ -1,0 +1,32 @@
+h2.titulo{
+    text-align: center;
+    color: blue;
+}
+
+p.titulo{
+    text-align: center;
+}
+
+td.titulo{
+    text-align: center;
+}
+
+td{
+    border: blue 1px solid;
+    height: 3cm;
+    width: 9cm;
+    text-align: center;
+}
+
+table{
+    border: blue 1px solid;
+}
+
+span{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body{
+    background: radial-gradient(rgb(255, 117, 248),rgb(190, 49, 255));
+}
