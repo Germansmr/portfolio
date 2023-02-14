@@ -20,6 +20,7 @@ td{
 
 table{
     border: blue 1px solid;
+    margin: auto;
 }
 
 span{
@@ -30,3 +31,4 @@ span{
 body{
     background: radial-gradient(rgb(255, 117, 248),rgb(190, 49, 255));
 }
+
